@@ -1,0 +1,15 @@
+{
+    "markdown.validate.duplicateLinkDefinitions.enabled": "warning",
+    "markdown.validate.fileLinks.enabled": "warning",
+    "markdown.validate.fileLinks.markdownFragmentLinks": "inherit",
+    "markdown.validate.fragmentLinks.enabled": "warning",
+    "markdown.validate.referenceLinks.enabled": "warning",
+    "markdown.validate.unusedLinkDefinitions.enabled": "hint",
+    "css.validate": true,
+    "less.validate": true,
+    "scss.validate": true,
+    "json.validate.enable": true,
+    "php.validate.enable": true,
+    "javascript.validate.enable": true,
+    "typescript.validate.enable": true
+}
