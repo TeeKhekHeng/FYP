@@ -34,7 +34,7 @@ def main(session):
 	rospy.loginfo("Tracking is: %s", face_service.isTrackingEnabled())
 
 	def handle_output(value):
-    	message = value.data
+        message = value.data
     	MAX = 3
     	if message == state['last_message']:
         	state['repeat_count'] += 1
