@@ -75,8 +75,7 @@ def main(session):
                    	'u: ({いっしょに}たべにいきましょう?) $onstopped=$1\n'
                    	'u: (あります) $onstopped=$1\n'
                    	'u: (ありません) $onstopped=$1\n'
-                   	'u: (さよ{う}なら) $onstopped=$1\n'
-                   	'u: ({お}バカ) $onstopped=$1\n')
+                   	'u: (さよ{う}なら) $onstopped=$1\n')
 
 	topics = ALDialog.getAllLoadedTopics()
 	for topic in topics:
