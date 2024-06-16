@@ -1,4 +1,4 @@
-# Pepper Robot ChatGPT Integration
+# ROS Wrapper and ChatGPT for Robot-controlled System
 
 ![Pepper Robot ChatGPT](images/Pepper%20ChatGPT.png)
 
@@ -11,6 +11,7 @@ This project integrates ChatGPT, an advanced AI language model, with the Pepper 
 4. [Usage](#usage)
 5. [Video Demonstration](#video-demonstration)
 6. [Photo of Results](#photo-of-results)
+7. [Project Information](#project-information)
 
 ## Project Overview
 
@@ -63,7 +64,7 @@ The project follows a systematic approach to integrate ChatGPT with the Pepper r
 1. Create a virtual environment for Python 3.7 using Anaconda:
     ```bash
     conda create -n open_ai python=3.7
-    conda activate copen_ai
+    conda activate open_ai
     ```
 
 ## Usage
@@ -76,7 +77,7 @@ The project follows a systematic approach to integrate ChatGPT with the Pepper r
 
 2. Run the Python scripts to start interaction management:
     ```bash
-    # In one terminal for Peper robot
+    # In one terminal for Pepper robot
     rosrun peppercode Pepper.py
 
     # In another terminal for ChatGPT
@@ -95,8 +96,21 @@ The project follows a systematic approach to integrate ChatGPT with the Pepper r
 ## Photo of Results
 
 ![Pepper Robot Waving Hand in front of User](images/Wave%20hand.png)
+*Figure 1: Pepper Robot Waving Hand in front of User*
+
 ![Pepper Robot Dancing in front of User](images/Dancing.png)
+*Figure 2: Pepper Robot Dancing in front of User*
+
 ![Pepper Robot Bowing to the User](images/Bow.png)
-![Pepper Robot WShaking Hand with the User](images/Shake%20hand.png)
+*Figure 3: Pepper Robot Bowing to the User*
 
+![Pepper Robot Shaking Hand with the User](images/Shake%20hand.png)
+*Figure 4: Pepper Robot Shaking Hand with the User*
 
+## Project Information
+
+| Project lead           | TEE KHEK HENG                      |
+|------------------------|------------------------------------|
+| Matric No              | A20MJ0111                          |
+| Project Supervisor     | Assoc Prof Ir Dr Zool Hilmi Ismail |
+| Course Code            | SMJE 4924 - Final Year Project 2   |
