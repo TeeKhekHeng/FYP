@@ -1,6 +1,8 @@
 # ROS Wrapper and ChatGPT for Robot-controlled System
 
-<img src="images/Pepper%20ChatGPT.png" alt="Pepper Robot ChatGPT" width="400"/>
+<div align="center">
+  <img src="images/Pepper%20ChatGPT.png" alt="Pepper Robot ChatGPT" width="400"/>
+</div>
 
 This project integrates ChatGPT, an advanced AI language model, with the Pepper robot using ROS Indigo and Python. The primary objective is to enhance human-robot interaction (HRI) by leveraging the capabilities of ChatGPT and overcoming the limitations of Pepper's built-in libraries.
 
