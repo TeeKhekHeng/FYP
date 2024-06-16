@@ -1,6 +1,6 @@
 # ROS Wrapper and ChatGPT for Robot-controlled System
 
-![Pepper Robot ChatGPT](images/Pepper%20ChatGPT.png)
+<img src="images/Pepper%20ChatGPT.png" alt="Pepper Robot ChatGPT" width="400"/>
 
 This project integrates ChatGPT, an advanced AI language model, with the Pepper robot using ROS Indigo and Python. The primary objective is to enhance human-robot interaction (HRI) by leveraging the capabilities of ChatGPT and overcoming the limitations of Pepper's built-in libraries.
 
@@ -95,22 +95,28 @@ The project follows a systematic approach to integrate ChatGPT with the Pepper r
 
 ## Photo of Results
 
-![Pepper Robot Waving Hand in front of User](images/Wave%20hand.png)
+<img src="images/Wave%20hand.png" alt="Pepper Robot Waving Hand in front of User" width="300"/>
+
 *Figure 1: Pepper Robot Waving Hand in front of User*
 
-![Pepper Robot Dancing in front of User](images/Dancing.png)
+<img src="images/Dancing.png" alt="Pepper Robot Dancing in front of User" width="300"/>
+
 *Figure 2: Pepper Robot Dancing in front of User*
 
-![Pepper Robot Bowing to the User](images/Bow.png)
+<img src="images/Bow.png" alt="Pepper Robot Bowing to the User" width="300"/>
+
 *Figure 3: Pepper Robot Bowing to the User*
 
-![Pepper Robot Shaking Hand with the User](images/Shake%20hand.png)
+<img src="images/Shake%20hand.png" alt="Pepper Robot Shaking Hand with the User" width="300"/>
+
 *Figure 4: Pepper Robot Shaking Hand with the User*
 
 ## Project Information
 
-| Project lead           | TEE KHEK HENG                      |
+| Criteria               | Information                        |
 |------------------------|------------------------------------|
+| Project lead           | TEE KHEK HENG                      |
 | Matric No              | A20MJ0111                          |
 | Project Supervisor     | Assoc Prof Ir Dr Zool Hilmi Ismail |
 | Course Code            | SMJE 4924 - Final Year Project 2   |
+
