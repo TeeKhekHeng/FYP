@@ -1,5 +1,7 @@
 # Pepper Robot ChatGPT Integration
 
+![Pepper Robot ChatGPT](images/Pepper%20ChatGPT.png)
+
 This project integrates ChatGPT, an advanced AI language model, with the Pepper robot using ROS Indigo and Python. The primary objective is to enhance human-robot interaction (HRI) by leveraging the capabilities of ChatGPT and overcoming the limitations of Pepper's built-in libraries.
 
 ## Table of Contents
@@ -8,6 +10,7 @@ This project integrates ChatGPT, an advanced AI language model, with the Pepper 
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Video Demonstration](#video-demonstration)
+6. [Photo of Results](#photo-of-results)
 
 ## Project Overview
 
@@ -87,8 +90,13 @@ The project follows a systematic approach to integrate ChatGPT with the Pepper r
 
 ## Video Demonstration
 
-[![Pepper Robot ChatGPT Integration](https://www.youtube.com/watch?v=719isX3GuOk&ab_channel=TeeKhekHeng)]()
+[Pepper Robot ChatGPT Integration](https://www.youtube.com/watch?v=719isX3GuOk&ab_channel=TeeKhekHeng)
 
+## Photo of Results
 
+![Pepper Robot Waving Hand in front of User](images/Wave%20hand.png)
+![Pepper Robot Dancing in front of User](images/Dancing.png)
+![Pepper Robot Bowing to the User](images/Bow.png)
+![Pepper Robot WShaking Hand with the User](images/Shake%20hand.png)
 
 
