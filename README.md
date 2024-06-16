@@ -110,7 +110,6 @@ The project follows a systematic approach to integrate ChatGPT with the Pepper r
 ## Project Information
 
 | Project lead           | TEE KHEK HENG                      |
-|------------------------|------------------------------------|
 | Matric No              | A20MJ0111                          |
 | Project Supervisor     | Assoc Prof Ir Dr Zool Hilmi Ismail |
 | Course Code            | SMJE 4924 - Final Year Project 2   |
